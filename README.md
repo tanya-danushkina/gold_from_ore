@@ -1,2 +1,2 @@
-# statistics_megaline
-Статистический анализ данных
+# gold from ore
+
